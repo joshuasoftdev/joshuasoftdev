@@ -11,6 +11,7 @@
   "dependencies": {
     "dotenv": "^16.3.1",
     "mustache": "^4.2.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.3.8"
   }
 }
