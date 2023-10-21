@@ -1,5 +1,5 @@
 ```
-![Visitor Count](https://profile-counter.glitch.me/joshuasoftdev/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{joshuasoftdev}/count.svg)
 ```
 Current date: Saturday, 21 October at 01:32 GMT-7
 
