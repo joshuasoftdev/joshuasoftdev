@@ -18,7 +18,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `http://api.openweathermap.org/data/2.5/weather?q=Sacramento&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=Sacramento&appid=4c26091d505ee5b1aa3e72bd5bdcf899&units=imperial`
   )
     .then((r) => r.json())
     .then((r) => {
