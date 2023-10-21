@@ -1,5 +1,4 @@
 ```
-
 ```
 Current date: Saturday, 21 October at 01:32 GMT-7
 
